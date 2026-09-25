@@ -8,9 +8,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Not part of the submission (instructor's brief, my build notes, my local test).
-# Delete a line here when you want that file in the repo.
-*.pdf
-flow.md
-test.py
-server2.py
